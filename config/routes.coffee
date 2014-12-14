@@ -38,11 +38,11 @@ module.exports.routes =
     controller: "action"
     action: "callac"
 
-  "get /actionGet":
+  "get /action":
     controller: "action"
     action: "actionget"
 
-  "delete /actionGet":
+  "delete /action":
     controller: "action"
     action: "actiondelete"
 ###*
